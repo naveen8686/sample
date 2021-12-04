@@ -1,0 +1,6 @@
+diff a/TestDocument.txt b/TestDocument.txt	(rejected hunks)
+@@ -1 +1,2 @@
+-This is my second commit
+\ No newline at end of file
++This is my second commit
++this is my third commit
